@@ -282,7 +282,10 @@ export default function App() {
                 </h1>
                 <p className="text-lg text-slate-600 leading-relaxed">
                   アドラー心理学に基づき、あなたが部下や後輩との関係で<br className="hidden sm:inline" />
-                  陥りやすい「課題」を可視化します。
+                  陥りやすい「課題」を可視化します。<br />
+                  <span className="text-sm font-medium text-indigo-600 mt-2 block">
+                    ※あなたが部下と接するときに感じていることを素直に答えてください。
+                  </span>
                 </p>
               </div>
 
